@@ -1,4 +1,4 @@
-# R2R ñ Data Repository
+# R2R ‚Äì Data Repository
 
 R2R (Rate-to-Rank) is a peer-assessment system that combines numeric grading with ranking-based aggregation.  
 This repository contains anonymized data from the R2R system and code used for analysis. 
@@ -6,15 +6,15 @@ This repository contains anonymized data from the R2R system and code used for a
 ## Publications
 
 ### 1. Recency Effects in Pairwise Comparisons during Peer Assessment of Oral Presentations  
-Accepted for publication in *Assessment and Evaluation in Higher Education* (forthcoming).  
+E. Yaakobi, I. Shalev, and L. Dery. 2026. Recency Effects in Pairwise Comparisons during Peer Assessment of Oral Presentations. Assessment & Evaluation in Higher Education Journal. [The paper](https://doi.org/10.1080/02602938.2026.2636700)    
 
 
 ### 2. Cognitive-Aware Peer Assessment: Design Implications from a Classroom Deployment  
-N. Bouskila and L. Dery, "Cognitive-Aware Peer Assessment: Design Implications from a Classroom Deployment," 2025 20th Conference on Computer Science and Intelligence Systems (FedCSIS), KrakÛw, Poland, 2025, pp. 641-646, doi: 10.15439/2025F8584.  
+N. Bouskila and L. Dery, "Cognitive-Aware Peer Assessment: Design Implications from a Classroom Deployment," 2025 20th Conference on Computer Science and Intelligence Systems (FedCSIS), Krak√≥w, Poland, 2025, pp. 641-646, doi: 10.15439/2025F8584.  
 [The paper](https://ieeexplore.ieee.org/document/11214692)
 
 ### 3. Interactive and Iterative Peer Assessment  
-L. Dery, ìInteractive and Iterative Peer Assessment,î in Proceedings of the European Conference on Artificial Intelligence (ECAI 2024), FAIA, vol. 392, pp. 1519ñ1526, 2024. doi: 10.3233/FAIA240656.
+L. Dery, ‚ÄúInteractive and Iterative Peer Assessment,‚Äù in Proceedings of the European Conference on Artificial Intelligence (ECAI 2024), FAIA, vol. 392, pp. 1519‚Äì1526, 2024. doi: 10.3233/FAIA240656.
 [The paper](https://www.ariel.ac.il/wp/lihi-dery/wp-content/uploads/sites/84/2026/01/Dery_ECAI_2024-1.pdf)
 
 ### 4. Mitigating Generosity Bias in Peer Assessment: A Tool for Oral Class Presentations  
@@ -25,9 +25,9 @@ L. Dery and M. Lange, "Mitigating Generosity Bias in Peer Assessment: a Tool for
 
 ## Repository Structure
 
-- `data/` ñ anonymized datasets organized by case study  
-- `notebooks/` ñ analysis notebooks (where applicable)  
-- `src/` ñ helper scripts (if applicable)
+- `data/` ‚Äì anonymized datasets organized by case study  
+- `notebooks/` ‚Äì analysis notebooks (where applicable)  
+- `src/` ‚Äì helper scripts (if applicable)
 
 ---
 
