@@ -6,7 +6,7 @@ This repository contains anonymized data from the R2R system and code used for a
 ## Publications
 
 ### 1. Recency Effects in Pairwise Comparisons during Peer Assessment of Oral Presentations  
-Accepted for publication in *Assessment and Evaluation in Higher Education* (forthcoming).  
+E. Yaakobi, I. Shalev, and L. Dery, “Recency effects in pairwise comparisons during peer assessment of oral presentations,” Assessment & Evaluation in Higher Education, 2026, pp. 1–8. [The paper](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2636700)
 
 
 ### 2. Cognitive-Aware Peer Assessment: Design Implications from a Classroom Deployment  
@@ -26,8 +26,7 @@ L. Dery and M. Lange, "Mitigating Generosity Bias in Peer Assessment: a Tool for
 ## Repository Structure
 
 - `data/` – anonymized datasets organized by case study  
-- `notebooks/` – analysis notebooks (where applicable)  
-- `src/` – helper scripts (if applicable)
+- `code/` – analysis notebooks (where applicable)  
 
 ---
 
